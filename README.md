@@ -4,7 +4,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-7+-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-Offensive PowerShell toolkit for red teams and internal assessments — WMI, recon, lateral movement, and access testing at scale.
+A modern PowerShell toolkit built from real-world testing, focused on recon, access checks, and lateral movement in Windows environments.
 
 ## 📚 Table of Contents
 
