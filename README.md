@@ -13,11 +13,10 @@ This repo started as a way to fix that: I’m actively learning, testing, and re
 
 If you're learning offensive PowerShell or want up-to-date scripts that work on modern Windows networks, PowerOpsToolKit might be a solid place to start or contribute to.
 
-
 ## 📂 Toolkit Structure
 
 ### 📁 scripts/
-Contains individual PowerShell scripts for various offensive and recon use cases.
+Contains individual PowerShell scripts for various offensive and reconnaissance use cases.
 
 ### 📁 docs/
 Usage examples, OPSEC notes, and command breakdowns.
@@ -26,6 +25,14 @@ Usage examples, OPSEC notes, and command breakdowns.
 * Intended for authorized testing, red teaming, and educational use only.
 * Always ensure proper permission before running scripts in production or external networks.
 * Designed for internal assessments, defense simulation, and research.
+
+
+## 📂 Included Scripts
+
+| Script Name                    | Description                                 |
+|-------------------------------|---------------------------------------------|
+| `Find-WMILocalAdminAccess.ps1`| Checks if local admin WMI access is available on remote systems. |
+| ...                           | More coming soon!                           |
 
 ### 📄 License
 This project is licensed under the MIT License.
