@@ -1,6 +1,8 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-7+-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
+![Uploading Screenshot 2025-05-11 223457.png…]()
+
 # PowerOpsToolKit
 Offensive PowerShell toolkit for red teams and internal assessments — WMI, recon, lateral movement, and access testing at scale.
 
