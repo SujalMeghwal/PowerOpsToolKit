@@ -6,7 +6,31 @@
 
 Offensive PowerShell toolkit for red teams and internal assessments — WMI, recon, lateral movement, and access testing at scale.
 
-# Description
-PowerSharpOps is a curated collection of modern PowerShell scripts for Windows environments, built to support everything from system discovery and access auditing to post-compromise automation and enterprise recon. Whether you're performing internal assessments, automating IT operations, or developing advanced red team tooling, this toolkit provides scalable, modular scripts that are easy to integrate and extend.
+## Description
+PowerOpsToolKit is my personal collection of modern PowerShell scripts for offensive Windows operations — built out of frustration with outdated, broken, or abandoned tools commonly found in red team blogs and videos. Many of the scripts used in popular tutorials are 5+ years old and simply no longer work in modern Active Directory environments.
 
-Each script is standalone, cleanly written, and designed with modern PowerShell best practices, enabling security professionals, penetration testers, and sysadmins to operate efficiently across diverse Windows networks.
+This repo started as a way to fix that: I’m actively learning, testing, and rewriting scripts as I go — customizing them for real-world use in AD recon, privilege escalation, access validation, lateral movement, and more. I’ve combined pieces of older public tools with new code to match my current needs, and I plan to expand this toolkit as I grow in my offensive Windows journey.
+
+If you're learning offensive PowerShell or want up-to-date scripts that work on modern Windows networks, PowerOpsToolKit might be a solid place to start or contribute to.
+
+
+## 📂 Toolkit Structure
+
+### 📁 scripts/
+Contains individual PowerShell scripts for various offensive and recon use cases.
+
+### 📁 docs/
+Usage examples, OPSEC notes, and command breakdowns.
+
+### 🛡️ Usage Guidelines
+* Intended for authorized testing, red teaming, and educational use only.
+* Always ensure proper permission before running scripts in production or external networks.
+* Designed for internal assessments, defense simulation, and research.
+
+### 📄 License
+This project is licensed under the MIT License.
+
+### 🤝 Contributing
+Pull requests are welcome! If you have a useful offensive script, OPSEC improvement, or enhancement idea, feel free to fork, tweak, and submit a PR.
+Want to help organize docs, examples, or even build a PowerShell module from these? Reach out.
+
